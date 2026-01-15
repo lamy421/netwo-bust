@@ -1,10 +1,11 @@
 # NETWO BURST
 
 <div align="center">
- ▄██████████████▄▐█▄▄▄▄█▌
- ██████▌▄▌▄▐▐▌███▌▀▀██▀▀
- ████▄█▌▄▌▄▐▐▌▀███▄▄█▌
- ▄▄▄▄▄██████████████▀
+        ▄██████████████▄▐█▄▄▄▄█▌
+     ██████▌▄▌▄▐▐▌███▌▀▀██▀▀
+    ████▄█▌▄▌▄▐▐▌▀███▄▄█▌
+       ▄▄▄▄▄██████████████▀
+ 
 ### Advanced Network Stress Testing Tool
 
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
