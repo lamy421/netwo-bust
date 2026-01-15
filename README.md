@@ -24,7 +24,7 @@ Multi-threaded ICMP flood tool with real-time network monitoring
 
 NETWO BURST is a powerful network stress testing tool built for Termux/proot-distro Arch Linux. Deploy parallel attack threads while monitoring real-time network speeds and system performance.
 
-![1p](ss/Screenshot_2026-01-16-04-39-34-857_com.termux.jpg) 
+![2p](ss/Screenshot_2026-01-16-04-39-43-232_com.termux.jpg) 
 
 ## Features
 
@@ -38,6 +38,8 @@ NETWO BURST is a powerful network stress testing tool built for Termux/proot-dis
 - Zero-interval flooding
 - Continuous packet transmission
 
+![pp](Screenshot_2026-01-16-04-39-48-066_com.termux.jpg) 
+
 📊 **Real-time Monitoring**
 - Live upload/download speed tracking
 - Per-thread packet statistics
@@ -48,6 +50,8 @@ NETWO BURST is a powerful network stress testing tool built for Termux/proot-dis
 - Color-coded terminal output
 - Live dashboard with progress bars
 - Animated status indicators
+
+  ![1p](ss/Screenshot_2026-01-16-04-39-34-857_com.termux.jpg) 
 
 ## Installation
 
